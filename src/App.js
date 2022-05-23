@@ -17,7 +17,7 @@ function App() {
 
   const checkIfWalletIsConnected = async () => {
     try {
-      //your code here
+      //your code here!!
     } catch (error) {
       console.log(error);
     }
@@ -25,7 +25,8 @@ function App() {
 
   const getBankName = async () => {
     try {
-      //your code here
+      //your code here idjnuienfewnd
+      // nwqlfnwefdqwkm
     } catch (error) {
       console.log(error);
     }
